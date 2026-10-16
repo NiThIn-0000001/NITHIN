@@ -1,5 +1,0 @@
-{
-  "job_id": "BUILD_9021",
-  "status": "success",
-  "errors": ["NullPointerException at line 42", "Timeout error"]
-}
